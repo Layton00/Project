@@ -4,28 +4,28 @@
       "title": "Dark Souls 3",
       "developer": "FromSoftware",
       "platforms": ["PC","PS4","Xbox One"],
-      "release year": 2016,
+      "release year": "2016",
       "photo": ""
     },
     {
       "title": "DOOM",
       "developer": "id Software",
       "platforms": ["PC","PS4","Xbox One","Switch"],
-      "release year": 2016,
+      "release year": "2016",
       "photo": ""
     },
     {
       "title": "The Last Of Us",
       "developer": "Naughty Dog",
       "platforms": ["PS4"],
-      "release year": 2013,
+      "release year": "2013",
       "photo": ""
     },
     {
       "title": "Super Smash Bros. for Wii U",
       "developer": "Bandai Namco",
       "platforms": ["Wii U","Switch"],
-      "release year": 2014,
+      "release year": "2014",
       "photo": ""
     }
   ]
