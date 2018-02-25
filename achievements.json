@@ -1,14 +1,22 @@
 {
-  "futureAchievements":[
+  "goals":[
+    
     {
       "title": "College",
-      "description": "",
+      "description": "My top priority right now is to graduate from High School and go to College. The main college I'm looking to get            into is LSU because that is the college my parents both attended. However, if I have a change of interest between now and my high          school graduation, I'll make the best choice when the time comes.",
       "photo": ""
-    },
+    },  
     {
       "title": "Degree",
-      "description": ".",
+      "description": "My natural next goal is to graduate from college and get a degree that will best set me on a viable career path. I          believe an engineering or web design major would best suit my interests. I would minor in something I'm interested in but may not          lead to a career, such as history or geography.",
       "photo": ""
     }
   ]
+  "hobbies":[
+  {
+  "title": "Videogames",
+  "description": "The main way I spend my time is playing video games. The games I currently spend the most time on are Bloodborne and        Smash Bros., but my favorite video game is Dark Souls 3. I also enjoy strategy/rpg games like Civilization 5 and Fire Emblem.",
+  },
+  {
+  },
 }
