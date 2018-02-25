@@ -13,10 +13,13 @@
     }
   ]
   "hobbies":[
-  {
-  "title": "Videogames",
-  "description": "The main way I spend my time is playing video games. The games I currently spend the most time on are Bloodborne and        Smash Bros., but my favorite video game is Dark Souls 3. I also enjoy strategy/rpg games like Civilization 5 and Fire Emblem.",
-  },
-  {
-  },
+    {
+      "title": "Videogames",
+      "description": "The main way I spend my free time is playing video games. The games I currently spend the most time on are                  Bloodborne and Smash Bros., but my favorite video game is Dark Souls 3. I also enjoy strategy/rpg games like Civilization 5 and            Fire Emblem."
+    },
+    {
+      "title": "Podcasts",
+      "description": "The other way I spend my time is watching Youtube videos, usually podcasts. The two I mainly listen to are the              SuperMegaCast and The Official Podcast."
+    }
+  ]
 }
